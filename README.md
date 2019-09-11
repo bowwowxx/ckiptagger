@@ -1,4 +1,4 @@
-20
+21
 # CkipTagger
 Also: [中文 README](https://github.com/ckiplab/ckiptagger/wiki/Chinese-README)
 
